@@ -1,5 +1,6 @@
 # etc
 *.exe
+prevReserved.json
 
 # Logs
 logs
